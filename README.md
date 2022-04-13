@@ -12,7 +12,7 @@ Neste desafio você poderá criar uma página web para que seja seu portfolio e 
 
 ## Layout
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59458c0d-cd54-4576-86c5-ae9f5a336aea/Untitled.png)
+![Untitled](https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F59458c0d-cd54-4576-86c5-ae9f5a336aea%2FUntitled.png?table=block&id=890da793-9e6c-41ec-a9ed-5234def76bab&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=&cache=v2)
 
 Você pode duplicar o layout do projeto [clicando aqui](https://www.figma.com/file/L6fCiWtOgXCfslQdezqQeF/DD-Portfolio/duplicate) ou baixar o zip com os assets do projeto.
 
@@ -31,13 +31,13 @@ Baixe os assets aqui ⤵️
 
 ---
 
-1 - Use o link do Figma como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
+1 - Use o link do Figma como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.
 
 2 - Leia com atenção todas as instruções do desafio.
 
 3 - Bora codar! Lembre-se que você pode usar as tecnologias que se sentir mais confortável, mas também pode se desafiar usando novas techs, fazendo modificações e/ou adicionando funcionalidades no projeto como preferir. 🚀
 
-4 - Compartilhe seu resultado ou tire suas dúvidas na nossa [**comunidade aberta**](https://discord.gg/bacwY2gDCF)  
+4 - Compartilhe seu resultado ou tire suas dúvidas na nossa [**comunidade aberta**](https://discord.gg/bacwY2gDCF)
 
 # ✅ **Requisitos**
 
@@ -57,10 +57,10 @@ Neste desafio você vai construir o seu próprio portfolio. Caso você ainda nã
 - Os cards dos projetos deverão ser clicáveis
 - Os cards dos posts deverão ser clicláveis
 
-***Se desafie também:***
+**_Se desafie também:_**
 
-- *Tornando o design responsivo*
-- *Consumir a API do Github*
+- _Tornando o design responsivo_
+- _Consumir a API do Github_
 
 # 🎨 Style Guide
 
@@ -70,20 +70,20 @@ Neste desafio você vai construir o seu próprio portfolio. Caso você ainda nã
 
 ```css
 :root {
-  --body-bg-color: #22212C;
-  --text-color: #837E9F;
-  --bg-cards: #302F3D;
-  --bg-techs: #CB92B1;
+  --body-bg-color: #22212c;
+  --text-color: #837e9f;
+  --bg-cards: #302f3d;
+  --bg-techs: #cb92b1;
 }
 ```
 
 ## **Tipo de fonte:**
 
-font-family: Merriweather Sans 
+font-family: Merriweather Sans
 
 font-weight: 400, 500 e 700
 
-Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/specimen/Merriweather+Sans?query=Merriweather+Sans) 
+Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/specimen/Merriweather+Sans?query=Merriweather+Sans)
 
 # 📅 Entrega
 
