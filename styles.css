@@ -451,3 +451,132 @@ footer {
   font-size: 14px;
   margin-bottom: 10px;
 }
+
+@media (max-width: 900px) {
+  .container {
+    max-width: 250px;
+    padding: 20px;
+    flex-direction: column;
+  }
+
+  .profile {
+    width: 250px;
+  }
+
+  .profile .photo {
+    height: 150px;
+  }
+
+  .profile .photo img {
+    width: 64px;
+    height: 64px;
+  }
+
+  .profile .name {
+    font-size: 18px;
+    padding: 15px 0 5px 0;
+  }
+
+  .profile .occupation {
+    font-size: 12px;
+  }
+
+  .socials {
+    font-size: 10px;
+  }
+
+  .technologies .title-techs {
+    font-size: 16px;
+  }
+
+  .technologies .techs {
+    margin: 0;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .technologies .languages {
+    padding: 4px 8px;
+    margin: 8px;
+  }
+
+  .experiences .title-experiences,
+  .title-educations {
+    padding: 0 0 20px 20px;
+    font-size: 16px;
+  }
+
+  .projects {
+    margin-top: 28px;
+    min-width: 250px;
+  }
+
+  .my-projects :nth-child(1) {
+    font-size: 16px;
+  }
+
+  .projects > section {
+    grid-template-columns: 1fr;
+  }
+
+  section #project-1 {
+    margin-bottom: 32px;
+  }
+
+  .box-2-project {
+    margin-top: 20px;
+  }
+
+  .title-recent-posts p {
+    font-size: 16px;
+  }
+
+  #post-1 {
+    padding: 20px 0 24px 0px;
+  }
+
+  .image-post {
+    flex-direction: column;
+  }
+
+  .image-post > img {
+    margin: 0 10px 0 20px;
+    width: 32px;
+    height: 32px;
+  }
+
+  .box-1-post {
+    display: flex;
+    flex-direction: column;
+    padding: 0 16px;
+  }
+
+  .title-post {
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .date-post {
+    font-size: 8px;
+    padding-bottom: 5px;
+  }
+
+  .description-post {
+    font-size: 10px;
+  }
+
+  .hashtags-post {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+
+  .hashtags-post p {
+    font-size: 10px;
+  }
+
+  footer {
+    font-size: 12px;
+    width: 280px;
+  }
+}
